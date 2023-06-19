@@ -4,13 +4,13 @@
 
 ## Game Mechanics:
 
-* Movement
-* Jumping
-* Platforming
-* Collectibles
-* Hazards and Obstacles: 
-* Combat
-* Power-ups and Upgrades
+* :runner: Movement
+* :arrow_up: Jumping
+* :city_sunset: Platforming
+* :star2: Collectibles
+* :warning: Hazards and Obstacles
+* :crossed_swords: Combat
+* :zap: Power-ups and Upgrades
 
 
 ## 🖼 In-Game Images
