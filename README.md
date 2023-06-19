@@ -5,12 +5,12 @@ as they navigate through various levels, engaging in jumping, combat, collecting
 
 ## Game Mechanics:
 
-* Movement
+*🏻Movement
 * Jumping
 * Platforming
-* Collectibles: 
+* Collectibles
 * Hazards and Obstacles: 
-* Combat: 
+* Combat
 * Power-ups and Upgrades
 
 
