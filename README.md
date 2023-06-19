@@ -13,7 +13,7 @@
 * :zap: Power-ups and Upgrades
 
 
-## 🖼 In-Game Images
+## 🖼 In-Game Images:
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/farukylc/2D-Platformer-Game/assets/99920678/b5bf685a-f4d6-4198-a8c1-a0131a463e2d" alt="Screenshot 1" width="400" style="margin-right: 20px;">
   <img src="https://github.com/farukylc/2D-Platformer-Game/assets/99920678/81d0b3d6-e974-4734-bb67-8cad0a4967d1" alt="Screenshot 2" width="400">
@@ -23,7 +23,7 @@
   <img src="https://github.com/farukylc/2D-Platformer-Game/assets/99920678/051d8e82-54d2-4835-9e8a-d11f03dd02a6" alt="Screenshot 4" width="400">
 </div>
 
-## 🎥 Gameplay video
+## 🎥 Gameplay video:
 <p align="center">
   <a href="https://www.youtube.com/watch?v=k-b8lplZ5ZE">
     <img src="https://img.youtube.com/vi/k-b8lplZ5ZE/0.jpg" alt="Video" width="560" height="315">
