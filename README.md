@@ -4,13 +4,13 @@ as they navigate through various levels, engaging in jumping, combat, collecting
 
 
 ## Game Mechanics:
-**Movement
-**Jumping
-**Platforming
-**Collectibles: 
-**Hazards and Obstacles: 
-**Combat: 
-**Power-ups and Upgrades
+*Movement
+*Jumping
+*Platforming
+*Collectibles: 
+*Hazards and Obstacles: 
+*Combat: 
+*Power-ups and Upgrades
 
 
 ## 🖼 In-Game Images
