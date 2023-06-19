@@ -11,4 +11,4 @@ I aimed to create a more immersive and enjoyable gaming experience for players. 
   <img src="https://github.com/farukylc/2D-Platformer-Game/assets/99920678/051d8e82-54d2-4835-9e8a-d11f03dd02a6" alt="Screenshot 4" width="400">
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=k-b8lplZ5ZE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k-b8lplZ5ZE" frameborder="0" allowfullscreen></iframe>
