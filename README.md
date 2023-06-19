@@ -2,6 +2,8 @@
 During my 3rd class compulsory internship at Mayadem, I successfully developed an exciting platformer game. This game offers a captivating experience to players 
 as they navigate through various levels, engaging in jumping, combat, collecting valuable items, and interacting with environmental elements such as portals and trampolines. By implementing these features, 
 I aimed to create a more immersive and enjoyable gaming experience for players. In this project, I utilized a pre-existing asset found on the Unity Asset Store.
+
+## In-game images
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/farukylc/2D-Platformer-Game/assets/99920678/b5bf685a-f4d6-4198-a8c1-a0131a463e2d" alt="Screenshot 1" width="400" style="margin-right: 20px;">
   <img src="https://github.com/farukylc/2D-Platformer-Game/assets/99920678/81d0b3d6-e974-4734-bb67-8cad0a4967d1" alt="Screenshot 2" width="400">
@@ -11,4 +13,7 @@ I aimed to create a more immersive and enjoyable gaming experience for players. 
   <img src="https://github.com/farukylc/2D-Platformer-Game/assets/99920678/051d8e82-54d2-4835-9e8a-d11f03dd02a6" alt="Screenshot 4" width="400">
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k-b8lplZ5ZE" frameborder="0" allowfullscreen></iframe>
+## Gameplay video
+[![Video](https://img.youtube.com/vi/k-b8lplZ5ZE/0.jpg)](https://www.youtube.com/watch?v=k-b8lplZ5ZE)
+
+
