@@ -2,6 +2,17 @@
   During my 3rd class compulsory internship at Mayadem at 2022, I successfully developed mt first game. This game offers a captivating experience to players 
 as they navigate through various levels, engaging in jumping, combat, collecting valuable items, and interacting with environmental elements such as portals and trampolines. By implementing these features, I aimed to create a more immersive and enjoyable gaming experience for players. In this project, I utilized a pre-existing asset found on the Unity Asset Store.
 
+
+## Game Mechanics:
+**Movement
+**Jumping
+**Platforming
+**Collectibles: 
+**Hazards and Obstacles: 
+**Combat: 
+**Power-ups and Upgrades
+
+
 ## 🖼 In-Game Images
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/farukylc/2D-Platformer-Game/assets/99920678/b5bf685a-f4d6-4198-a8c1-a0131a463e2d" alt="Screenshot 1" width="400" style="margin-right: 20px;">
