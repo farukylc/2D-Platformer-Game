@@ -5,7 +5,7 @@ as they navigate through various levels, engaging in jumping, combat, collecting
 
 ## Game Mechanics:
 
-*🏻Movement
+* Movement
 * Jumping
 * Platforming
 * Collectibles
